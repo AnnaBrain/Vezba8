@@ -1,0 +1,57 @@
+.navbar-brand img {
+    display: inline;
+}
+.navbar-header {
+    width: 50%;
+}
+.bgp {
+    background-image: url(mountains.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 80vh;
+    background-blend-mode: darken;
+    background-color: rgb(77, 165, 187, 0.8);
+    color: white;
+}
+.bgp h1 {
+    font-size: 50px;
+}
+.pad {
+    padding-top: 8%;
+}
+.b1 {
+    background-color: transparent;
+    border: 1px solid grey;
+}
+.bg2 {
+    background-color: rgb(51, 57, 58);
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    padding-top: 1%;
+}
+.a1 {
+    border: 1px solid rgb(51, 122, 183);
+}
+.a1 h3 {
+    color:  rgb(51, 122, 183);
+}
+.a2 {
+    border: 1px solid rgb(51, 122, 183);
+    background-color: rgb(51, 122, 183);
+    color: white;
+}
+.pad2 {
+    padding: 5% 0%;
+}
+.hl {
+    color:  rgb(51, 122, 183);
+}
+hr {
+    border: 2px solid lightgray;
+    width: 50%;
+}
+.bg3 {
+    background-color: rgb(242, 244, 247);
+}
